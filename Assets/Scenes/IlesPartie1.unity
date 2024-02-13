@@ -267,7 +267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 62923204}
   m_Layer: 0
-  m_Name: =====Lumieres===========
+  m_Name: =====Lumieres=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1849,7 +1849,7 @@ GameObject:
   m_Component:
   - component: {fileID: 494332832}
   m_Layer: 0
-  m_Name: =====Personnages=========
+  m_Name: =====Personnages=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4525,7 +4525,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1744795150}
   m_Layer: 0
-  m_Name: =====Scripts=============
+  m_Name: =====Scripts=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4556,7 +4556,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1754413461}
   m_Layer: 0
-  m_Name: =====Effets=============
+  m_Name: =====Effets=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4833,7 +4833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1878647571}
   m_Layer: 0
-  m_Name: =====Cameras===========
+  m_Name: =====Cameras=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5550,7 +5550,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2124524989}
   m_Layer: 0
-  m_Name: =====Environnement=======
+  m_Name: =====Environnement=====
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
